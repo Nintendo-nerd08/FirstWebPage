@@ -30,6 +30,10 @@ ol{
     font-family:sans-serif;
 }
 
+li:nth-child(even){
+    background-color:powderblue;
+}
+
 h3{
     background-color: lightblue;
     font-size:1.5em;
@@ -45,8 +49,12 @@ ul{
 
 }
 
-a{
+li:nth-child(odd){
+    background-color: cornflowerblue;
+}
 
+a:hover{
+    color:purple;
 }
 
 blockquote{
