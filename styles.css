@@ -1,0 +1,61 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    background-color: lightblue;
+    font-size:1.5em;
+    color: aliceblue ;
+    font-family:sans-serif;
+}
+
+p{
+    background-color: lightblue;
+    font-size:1.0em;
+    color: deepskyblue ;
+    font-family:sans-serif;
+}
+
+h2{
+    background-color: lightblue;
+    font-size:1.5em;
+    color: aliceblue ;
+    font-family:sans-serif;
+}
+
+ol{
+    background-color:lightblue;
+    font-size:1.5em;
+    color: deepskyblue ;
+    font-family:sans-serif;
+}
+
+h3{
+    background-color: lightblue;
+    font-size:1.5em;
+    color: aliceblue ;
+    font-family:sans-serif;
+}
+
+ul{
+    background-color: lightblue;
+    font-size:1.5em;
+    color: deepskyblue;
+    font-family:sans-serif;
+
+}
+
+a{
+
+}
+
+blockquote{
+
+}
+
+table{
+    background-color: lightblue;
+    font-size:1.5em;
+    color: deepskyblue ;
+    font-family:sans-serif;
+}
