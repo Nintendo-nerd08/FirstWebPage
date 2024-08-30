@@ -67,3 +67,10 @@ table{
     color: deepskyblue ;
     font-family:sans-serif;
 }
+td:nth-child(odd){
+    background-color: aliceblue;
+}
+
+td:nth-child(even){
+    background-color: lightskyblue;
+}
